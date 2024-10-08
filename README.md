@@ -69,12 +69,7 @@ Train a linear regression model on the dataset and evaluate using RMSE.
 For Question 4, try different regularization values (r) and find the best.
 For Question 5, explore the effect of changing the random seed on the model's stability by calculating the standard deviation of the RMSE values.
 Train the final model using all data (train and validation) and evaluate it on the test set.
-Results
 
-RMSE Scores
-RMSE with missing values filled with 0: <your RMSE>
-RMSE with missing values filled with mean: <your RMSE>
-Best RMSE for regularized linear regression: <r value>
 
  
 

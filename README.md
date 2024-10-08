@@ -58,7 +58,7 @@ pandas
 numpy
 scikit-learn
 3. Run the Notebook
-After installing the dependencies, run the Jupyter notebook or Python script to perform the analysis.
+After installing the dependencies, run the Jupyter Notebook or Python script to perform the analysis.
 
 Steps to Reproduce
 Download the dataset using the link above.

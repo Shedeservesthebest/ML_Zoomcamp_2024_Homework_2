@@ -1,6 +1,4 @@
 # ML_Zoomcamp_2024_Homework_2
-markdown
-Copy code
 # Laptops Price Prediction - ML Zoomcamp 2024 Homework 2
 
 This project is part of the **ML Zoomcamp 2024** course. The goal is to build a regression model to predict laptop prices based on a dataset that includes features such as RAM, storage, and screen size.
@@ -77,30 +75,8 @@ RMSE Scores
 RMSE with missing values filled with 0: <your RMSE>
 RMSE with missing values filled with mean: <your RMSE>
 Best RMSE for regularized linear regression: <r value>
-Final Test RMSE: <your RMSE>
-Author
 
-This homework is part of ML Zoomcamp 2024 by [Your Name].
+ 
 
-License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-markdown
-Copy code
-
-### Steps to Add the README to GitHub:
-
-1. **Create the README File**:
-   - In your local project directory, create a file named `README.md`.
-
-   ```bash
-   touch README.md
-Edit the README:
-Open the README.md file in VS Code and paste the content (or adjust it based on your specific project).
-Stage, Commit, and Push the README:
-bash
-Copy code
-git add README.md
-git commit -m "Added README file"
-git push origin main

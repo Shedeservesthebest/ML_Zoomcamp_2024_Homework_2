@@ -39,36 +39,7 @@ Question 5: Impact of Seed Value on Model Stability
 We investigate how different random seed values affect the model's RMSE by calculating the standard deviation of RMSE across multiple seeds.
 Question 6: Final Test Evaluation
 We train the final model with a regularization parameter r=0.001 and evaluate its performance on the test dataset.
-Setup and Dependencies
 
-1. Clone the repository
-bash
-Copy code
-git clone https://github.com/Shedeservesthebest/ML_Zoomcamp_2024_Homework_2.git
-2. Install Required Libraries
-Ensure that you have the necessary Python libraries installed. You can use the following requirements.txt to install them.
-
-bash
-Copy code
-pip install -r requirements.txt
-Here’s an example of a requirements.txt file:
-
-Copy code
-pandas
-numpy
-scikit-learn
-3. Run the Notebook
-After installing the dependencies, run the Jupyter Notebook or Python script to perform the analysis.
-
-Steps to Reproduce
-Download the dataset using the link above.
-Normalize the column names and filter the relevant columns (ram, storage, screen, final_price).
-Perform the Exploratory Data Analysis (EDA) to check for missing values and variable distributions.
-Split the data into training, validation, and test sets with a 60%/20%/20% ratio.
-Train a linear regression model on the dataset and evaluate using RMSE.
-For Question 4, try different regularization values (r) and find the best.
-For Question 5, explore the effect of changing the random seed on the model's stability by calculating the standard deviation of the RMSE values.
-Train the final model using all data (train and validation) and evaluate it on the test set.
 
 
  

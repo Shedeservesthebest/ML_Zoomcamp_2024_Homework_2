@@ -36,7 +36,7 @@ We deal with missing values by filling them with either 0 or the mean and train 
 Question 4: Regularized Linear Regression
 We train a regularized linear regression model using various regularization parameters r and identify the value that provides the best RMSE.
 Question 5: Impact of Seed Value on Model Stability
-We investigate how different random seed values affect the model's RMSE by calculating the standard deviation of RMSE across multiple seeds.
+We investigate how different random seed values affect the model\'s RMSE by calculating the standard deviation of RMSE across multiple seeds.
 Question 6: Final Test Evaluation
 We train the final model with a regularization parameter r=0.001 and evaluate its performance on the test dataset.
 
